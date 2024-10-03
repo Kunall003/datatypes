@@ -38,6 +38,5 @@ Size of float:4
 Enter the character z: a
 Z = a
 Size of character:1
-Enter your name: labdhi
-Name: labdhi
+
 Size of name: 24*/
